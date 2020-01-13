@@ -1,0 +1,1 @@
+first file in the submodule, added from inside main project, from another contributer
